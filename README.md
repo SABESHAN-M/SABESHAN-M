@@ -68,34 +68,19 @@ Focused on transforming ideas into production-grade systems.
 
 <div align="center">
 
-### 📊 Analytics
+## 📊 Analytics
 
-<picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=SABESHAN-M&show_icons=true&theme=default&hide_border=true"
-    media="(prefers-color-scheme: light)"
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=SABESHAN-M&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" 
+    height="170"
   />
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=SABESHAN-M&show_icons=true&theme=github_dark&hide_border=true"
-    media="(prefers-color-scheme: dark)"
+  
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SABESHAN-M&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" 
+    height="170"
   />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SABESHAN-M&show_icons=true&hide_border=true" />
-</picture>
-
-<picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SABESHAN-M&layout=compact&theme=default&hide_border=true"
-    media="(prefers-color-scheme: light)"
-  />
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SABESHAN-M&layout=compact&theme=github_dark&hide_border=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SABESHAN-M&layout=compact&hide_border=true" />
-</picture>
-
-</div>
-
+</p>
 ---
 
 <!-- ========================== -->
@@ -104,19 +89,23 @@ Focused on transforming ideas into production-grade systems.
 
 <div align="center">
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-<!-- Auto generated pinned repos -->
-<a href="https://github.com/SABESHAN-M?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SABESHAN-M&repo=YOUR_REPO_NAME&hide_border=true" />
+<p align="center">
+
+<a href="https://github.com/SABESHAN-M/portfolio">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=SABESHAN-M&repo=portfolio&theme=github_dark&hide_border=true" 
+  />
 </a>
 
-<a href="https://github.com/SABESHAN-M?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SABESHAN-M&repo=YOUR_REPO_NAME_2&hide_border=true" />
+<a href="https://github.com/SABESHAN-M/aws-deployment">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=SABESHAN-M&repo=aws-deployment&theme=github_dark&hide_border=true" 
+  />
 </a>
 
-</div>
-
+</p>
 ---
 
 <!-- ========================== -->
