@@ -3,7 +3,7 @@
 <!-- ===================================================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Sabeshan%20M&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20%7C%20Cloud%20Engineer%20%7C%20Python%20Developer&descAlignY=60&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:1E3C72,100:2A5298&text=Sabeshan%20M&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20%7C%20Cloud%20Engineer%20%7C%20Python%20Developer&descAlignY=60&descSize=18"/>
 </p>
 
 <p align="center">
@@ -99,21 +99,6 @@ Processed and visualized datasets using Pandas, NumPy & Matplotlib.
 </td>
 </tr>
 </table>
-
----
-
-<!-- ===================================================== -->
-<!--                    GITHUB STATS                       -->
-<!-- ===================================================== -->
-
-<div align="center">
-
-## 📊 Performance Analytics
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SABESHAN-M&show_icons=true&hide_border=true&bg_color=00000000&title_color=4F8EF7&icon_color=4F8EF7"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SABESHAN-M&layout=compact&hide_border=true&bg_color=00000000&title_color=4F8EF7"/>
-
-</div>
 
 ---
 
