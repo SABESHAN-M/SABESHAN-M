@@ -1,82 +1,129 @@
-<!-- ========================== -->
-<!--        HEADER              -->
-<!-- ========================== -->
+<!-- ===================================================== -->
+<!--                 PREMIUM SAAS HERO                     -->
+<!-- ===================================================== -->
 
 <p align="center">
-  <img src="![Banner](images/banner.png)type=transparent&height=120&text=Sabeshan%20M&fontSize=42&fontColor=000000&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Sabeshan%20M&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20%7C%20Cloud%20Engineer%20%7C%20Python%20Developer&descAlignY=60&descSize=18"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=20&duration=3000&pause=800&color=8E8E93&center=true&vCenter=true&width=500&lines=Full+Stack+Engineer;Cloud+First+Architecture;Clean+Code+Advocate" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3500&pause=1000&color=4F8EF7&center=true&vCenter=true&width=700&lines=Building+Scalable+Cloud+Infrastructure;Automating+CI%2FCD+Pipelines;Kubernetes+%7C+Terraform+%7C+AWS;Python+%7C+Data+Analytics" />
 </p>
 
 <p align="center">
-  <!-- Auto Dark/Light Mode Badge -->
-  <a href="https://github.com/SABESHAN-M">
-    <img src="https://img.shields.io/badge/Theme-Auto%20System-lightgrey?style=for-the-badge&logo=apple&logoColor=black" />
-  </a>
+  <img src="https://img.shields.io/badge/Cloud-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Orchestration-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IaC-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ---
 
-<!-- ========================== -->
-<!--        GLASS ABOUT         -->
-<!-- ========================== -->
+<!-- ===================================================== -->
+<!--                    ABOUT SECTION                      -->
+<!-- ===================================================== -->
 
 <div align="center">
 
-<table>
+## 👋 About
+
+</div>
+
+<table align="center" width="90%">
 <tr>
-<td width="800">
+<td>
 
-### 👋 About
+I design and deploy **cloud-native systems** with a focus on automation, scalability, and reliability.
 
-I design and build **scalable digital systems** with strong emphasis on:
+- 🚀 AWS cloud deployment & infrastructure design  
+- ⚙ CI/CD pipelines using GitHub Actions & Jenkins  
+- 📦 Docker containerization & Kubernetes orchestration  
+- 🏗 Infrastructure as Code using Terraform  
+- 🐍 Python automation & Data Analytics  
 
-- Architecture clarity  
-- Performance optimization  
-- Cloud-native deployment  
-- Developer experience  
-
-Focused on transforming ideas into production-grade systems.
+Focused on building production-grade systems with clean architecture and performance optimization.
 
 </td>
 </tr>
 </table>
 
+---
+
+<!-- ===================================================== -->
+<!--                    TECH STACK                         -->
+<!-- ===================================================== -->
+
+<div align="center">
+
+## 🛠 Technology Stack
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,git,jenkins" />
+<br><br>
+<img src="https://skillicons.dev/icons?i=python,django,react,nodejs,mysql,mongodb" />
+
 </div>
 
 ---
 
-<!-- ========================== -->
-<!--        TECH STACK          -->
-<!-- ========================== -->
+<!-- ===================================================== -->
+<!--                    PROJECT HIGHLIGHT                  -->
+<!-- ===================================================== -->
 
 <div align="center">
 
-### 🛠 Technology
+## 🚀 Featured Capabilities
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,django,mysql,mongodb,aws,docker,git,linux" />
+</div>
+
+<table align="center" width="95%">
+<tr>
+<td width="33%">
+
+### ☁ Cloud Deployment
+Provisioned AWS infrastructure with secure VPC setup and scalable architecture.
+
+</td>
+<td width="33%">
+
+### 🔁 CI/CD Automation
+Built automated pipelines reducing manual deployment effort.
+
+</td>
+<td width="33%">
+
+### 📊 Data Analytics
+Processed and visualized datasets using Pandas, NumPy & Matplotlib.
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ===================================================== -->
+<!--                    GITHUB STATS                       -->
+<!-- ===================================================== -->
+
+<div align="center">
+
+## 📊 Performance Analytics
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SABESHAN-M&show_icons=true&hide_border=true&bg_color=00000000&title_color=4F8EF7&icon_color=4F8EF7"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SABESHAN-M&layout=compact&hide_border=true&bg_color=00000000&title_color=4F8EF7"/>
 
 </div>
 
 ---
 
-<!-- ========================== -->
-<!--        ANALYTICS           -->
-<!-- ========================== -->
+<!-- ===================================================== -->
+<!--                CONTRIBUTION GRAPH                     -->
+<!-- ===================================================== -->
 
 <div align="center">
 
-
-
-<!-- ========================== -->
-<!--     CONTRIBUTION GRAPH     -->
-<!-- ========================== -->
-
-<div align="center">
-
-### 📈 Activity
+## 📈 Contribution Activity
 
 <picture>
   <source 
@@ -87,37 +134,33 @@ Focused on transforming ideas into production-grade systems.
     srcset="https://github-readme-activity-graph.vercel.app/graph?username=SABESHAN-M&theme=github-dark&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SABESHAN-M&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SABESHAN-M&hide_border=true" width="100%"/>
 </picture>
 
 </div>
 
 ---
 
-<!-- ========================== -->
-<!--        CONTACT             -->
-<!-- ========================== -->
+<!-- ===================================================== -->
+<!--                      CONTACT                          -->
+<!-- ===================================================== -->
 
 <div align="center">
 
-### 🌐 Connect
+## 🌐 Connect
 
 <a href="https://www.linkedin.com/in/sabeshan-m">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:sabeshan0107@email.com">
-  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-<div align="center">
-
-<br>
-
-<sub>Designed with precision. Built with intention.</sub>
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
+</p>
