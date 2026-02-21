@@ -3,7 +3,7 @@
 <!-- ===================================================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:1E3C72,50:2A5298,100:4F8EF7&text=Sabeshan%20M&fontSize=50&fontColor=2563EB&animation=fadeIn&fontAlignY=38&desc=DevOps%20%7C%20Cloud%20Engineer%20%7C%20Python%20Developer&descAlignY=60&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:E0F2FE,50:BAE6FD,100:7DD3FC&text=Sabeshan%20M&fontSize=50&fontColor=0C4A6E&animation=fadeIn&fontAlignY=38&desc=DevOps%20%7C%20Cloud%20Engineer%20%7C%20Python%20Developer&descAlignY=60&descSize=18"/>
 </p>
 
 <p align="center">
