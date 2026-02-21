@@ -3,7 +3,7 @@
 <!-- ========================== -->
 
 <p align="center">
-  <img src="[https](https://www.figma.com/design/B5cvzLHs4UpbPuauIdpnKa/README-Github-Banner--Community---Community-?node-id=2-146&t=RHjZgxh6U4r88wLa-1)?type=transparent&height=120&text=Sabeshan%20M&fontSize=42&fontColor=000000&animation=fadeIn" />
+  <img src="![Banner](images/banner.png)type=transparent&height=120&text=Sabeshan%20M&fontSize=42&fontColor=000000&animation=fadeIn" />
 </p>
 
 <p align="center">
